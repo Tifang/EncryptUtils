@@ -1,0 +1,3 @@
+include ':encryptUtils'
+include ':app'
+rootProject.name = "依赖库制作"
